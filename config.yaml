@@ -1,0 +1,9 @@
+# add your own api key
+emailrep:
+  api_key: ""
+virustotal:
+  api_key: ""
+twitter:
+  bearer_token: ""
+facebook:
+  access_token: ""
